@@ -1,4 +1,6 @@
-# sales-data-analysis
+This project has been superseded by kpi-sentinel, which merges this analysis into an automated ETL pipeline with a PostgreSQL warehouse and live Power BI dashboard.' avec un lien vers le nouveau repo.
+
+# sales-data-analysis 
 Analyse de données de ventes avec Python (pandas, matplotlib)
 # Analyse de données de ventes
 
